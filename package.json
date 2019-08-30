@@ -12,7 +12,7 @@
   "author": "--username-- <--usermail-->",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/fenghuixue/my-ts-axios.git"
   },
   "license": "MIT",
   "engines": {
@@ -117,5 +117,8 @@
     "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.12.0",
     "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "@types/handlebars": "^4.1.0"
   }
 }
